@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+  }
+
+  html,
+  .fullscreen {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+  }
+  
+  .container {
+    margin: auto;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 3rem;
+  }
